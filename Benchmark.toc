@@ -1,0 +1,7 @@
+## Interface: 11200
+## Author: E1ila
+## Title: Benchmark
+## Notes: Tracks DPS logs reported by DPSMate and measures performance
+## SavedVariables: Enabled, WaitTime, SpellId, TestTime
+Benchmark.lua
+Benchmark.xml
